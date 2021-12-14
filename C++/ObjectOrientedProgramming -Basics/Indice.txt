@@ -1,0 +1,19 @@
+/Tc1030 - ProyectoIntegrador - A00827462
+	/src
+		/Files
+			/Episodios.csv
+			/Peliculas.csv
+			/Series.csv
+		/Episodio.h
+		/main.cpp
+		/main.exe
+		/Pelicula.h
+		/Serie.h
+		/Video.h
+	/clases.png
+	/Conclusion.txt
+	/Errores.txt
+	/Indice.txt
+	/Presentacion_Situacion_Problema.pdf
+	/sobrecarga.png
+	

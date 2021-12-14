@@ -1,0 +1,6 @@
+Durante todo el proceso del codigo, se le pide al usuario varias veces que este 
+introduzca algun dato para poder mostrarle lo que esta buscando. Si el usuario
+introduce un dato que no se encuentra entre las opciones, no habra un error, ya que,
+el codigo simplemente no encontrara ningun dato y no imprimira nada. Sin embargo, 
+si el usuario introduce un codigo que no es del mismo tipo de variable que se le
+pide, el codigo parara y mostrara un error.

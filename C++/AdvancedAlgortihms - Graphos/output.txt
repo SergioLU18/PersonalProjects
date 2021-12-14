@@ -1,0 +1,40 @@
+-------------------
+1 - Cableado optimo de nueva conexion.
+Pantitl n - Ju rez 4
+RomaNorte - Cosmopolita 25
+Pantitl n - Cosmopolita 25
+Condesa - Polanco 27
+Condesa - Cosmopolita 34
+Polanco - Merced 54
+Polanco - Tlatelolco 58
+SantaFe - Merced 66
+DelValle - Pantitl n 68
+Costo total: 361
+-------------------
+2 - La ruta optima.
+DelValle - Pantitl n - Cosmopolita - Tlatelolco - Polanco - Merced - SantaFe - DelValle
+La Ruta Optima tiene un costo de: 447
+-------------------
+3 - Caminos mas cortos entre centrales.
+Condesa - Polanco (27)
+Condesa - Cosmopolita - RomaNorte (59)
+Condesa - Cosmopolita - Ju rez (63)
+Condesa - Cosmopolita - Pantitl n - SantaFe (126)
+Condesa - Cosmopolita (34)
+Polanco - Condesa - Cosmopolita - RomaNorte (86)
+Polanco - Condesa - Cosmopolita - Ju rez (90)
+Polanco - Merced - SantaFe (120)
+Polanco - Condesa - Cosmopolita (61)
+RomaNorte - Cosmopolita - Ju rez (54)
+RomaNorte - Cosmopolita - Pantitl n - SantaFe (117)
+RomaNorte - Cosmopolita (25)
+Ju rez - Pantitl n - SantaFe (71)
+Ju rez - Cosmopolita (29)
+SantaFe - Pantitl n - Cosmopolita (92)
+-------------------
+4 - Conexion de nuevas colonias.
+FelipeAngeles debe conectarse con Pantitl n
+Tlazintla debe conectarse con RomaNorte
+Penitenciaria debe conectarse con DelValle
+Porvenir debe conectarse con RomaNorte
+-------------------

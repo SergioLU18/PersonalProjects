@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591592835589-nn5k87gdl72a33humqgs143kn8sr647u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591592835589-nn5k87gdl72a33humqgs143kn8sr647u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIcvFbhu49LGzeJi2s4dw4_M7YoR0Y8ZI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591592835589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ITESM.QR-Generator</string>
+	<key>PROJECT_ID</key>
+	<string>hambre-cero-68432</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hambre-cero-68432.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591592835589:ios:5d8ac0b1d481992a9a6a6c</string>
+	<key>DATABASE_URL</key>
+	<string>https://hambre-cero-68432-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

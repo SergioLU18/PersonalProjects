@@ -1,0 +1,16 @@
+Miss por parte del equipo de Lorem Ipsum ya terminamos el reto en la carpeta de drive les compartimos:
+
+-Documentacion
+-unityPackage(Reto)
+-script de agentControler modificado
+-script del server con agentpy
+-video
+
+Miss para el video por el tiempo de entrega tuvimos que grabar la simulacion con un pequeño error que
+no le habiamos encontrado solucion. En este momento son las 12:43 AM y ya pudimos arreglar el problema
+que teniamos y ya subimos el unityPackage sin errores. En el video lo notaran, para manaña en la 
+presentacion podran ver que ya quedo sin ningun problema. Por parte del equipo les pedimos que tomen 
+consideracion el unityPackage sin errores al momento de revisarlo.
+
+Estamos agradecidos por todo lo aprendido ya que nos permitio hacer un reto muy padre y gracias de antemano
+Lorem Ipsum.

@@ -1,0 +1,30 @@
+Esta clase empezamos repasando un poco los temas que vimos a finales del semestre
+pasado. Esto me ayudo mucho a refrescar la memoria ya que llevaba yo mucho rato
+sin programar enserio. Algo tiene la programacion orientada a objetos que me 
+termina gustando mucho. Es una sensacion que deja de satisfaccion el ver que tus
+clases interactuan las unas con las otras para poder realizar un objetivo en comun.
+
+Sobre el tema de la herencia. Creo que en algun momento de mi vida ya habia oido
+un poco de este tema porque me resulto familiar a la hora de estar trabajando con
+herencia. En si, la herencia termina siendo muy util, porque, como pudimos ver en 
+las tareas realizadas en clase y en el proyecto integrador, podemos categorizar
+varias clases y no tener que estar creando funciones y variables repetidas todo el
+rato.
+
+Sobre el tema de polimorfismo. Honestamente, esto termina siendo mas util de lo que
+parece. Al principio no estaba entendiendo del todo el porque de los apuntadores,
+pero, al ver que podiamos crear un vector de diferentes clases, fui capaz de empezar
+a imaginar las diferentes opciones que se nos presentaban a nosotros como alumnos.
+
+Sobre el tema de sobrecarga. Este es probablemente mi tema favorito. A veces termina
+siendo muy tedioso el tener que estar llamando funciones para cosas tan sencillas 
+como lo son operaciones basicas. Sin embargo, la sobrecarga llega a nuestro rescate.
+La habilidad de poder usar operadores basicos en vez de funciones termina haciendo
+que todo se vea mas limpio y que sienta que escribo mi codigo mas rapido. Sin duda
+es algo que estare usando de manera constante en todos los codigos que escribire.
+
+En general, siento que la clase termino siendo muy util para mi como estudiante ITC.
+C++ es un lenguaje popular que me podria servir bastante en el ambito laboral, y los
+temas vistos en clase, aunque se pueden considerar basicos, pueden llegar a realizar 
+maravillas si son usados de la manera correcta. Me voy con un muy buen sabor de boca
+y con emocion por lo que viene.    :)
